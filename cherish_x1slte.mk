@@ -45,8 +45,5 @@ BUILD_FINGERPRINT := samsung/x1sxx/x1s:11/RP1A.200720.012/G980FXXSADUH5:user/rel
 PRODUCT_SYSTEM_PROPERTIES += \
     ro.build.PDA=G980FXXSADUH5
 
-## Build Vanilla
-CHERISH_VANILLA := true
-
 ## Fingerprint Animations
 EXTRA_UDFPS_ANIMATIONS := true
