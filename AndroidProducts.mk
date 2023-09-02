@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_x1slte.mk
+    $(LOCAL_DIR)/cherish_x1slte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_x1slte-user \
-    lineage_x1slte-userdebug \
-    lineage_x1slte-eng
+    cherish_x1slte-user \
+    cherish_x1slte-userdebug \
+    cherish_x1slte-eng
